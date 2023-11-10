@@ -14,7 +14,7 @@
  
  🌱 I’m studying at the University of Genova doing my master's degree in Computer Engineering(Artificial intelligence)
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Foysal440/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
